@@ -18,7 +18,7 @@ No sigue la consistencia de nombres en español o inglés. [Reto003Eda2](https:/
 
 ## Formato y Consistencia 
 
-Uso de <"style"> vacío en HTML. [DBApi](https://github.com/antoniogavilanes/DB-API/blob/main/views/pages/index.ejs#L9).
+Uso de <style> vacío en HTML. [DBApi](https://github.com/antoniogavilanes/DB-API/blob/main/views/pages/index.ejs#L9).
 
 onclick="eliminarTarea()", en vez de usar addEventListener [DBApi](https://github.com/antoniogavilanes/DB-API/blob/main/views/pages/index.ejs#L128).
 
